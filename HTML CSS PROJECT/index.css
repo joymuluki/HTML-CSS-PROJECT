@@ -1,0 +1,101 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background: url(dolls.jpeg);
+color: oldlace;
+ 
+
+}
+nav{
+    background-color: darkmagenta;
+    color: blueviolet;
+    text-align: center;
+    padding: 10px;
+    
+
+}
+nav ul{
+
+}
+nav li{
+    display: inline-block;
+    margin-left: 20px;
+}
+section{
+    text-align: left;
+    padding: 10px;
+    
+}
+a{
+    color: blanchedalmond;
+  text-decoration: aliceblue;
+}
+a :hover{
+text-decoration: wavy;
+
+}
+.contact me form{
+    position: absolute;
+   width: 400px;
+
+}
+ h3{
+
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+   font-family: serif;
+    color: paleturquoise;
+    
+
+}
+input{
+    font-size: 10px;
+    width: 90%;
+}
+button{ 
+    font-weight: bolder;
+    font-size: 18px;
+    padding: 10px;
+    width 50%
+    text-align: bottom: 
+
+}
+
+ button:hover{
+    color: blue;
+
+ }
+  h1{
+    text-align: center;
+    font-size: large;
+    color: black;
+    font-size: 40px;
+    font-style: italic;
+
+ }
+ #home p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-style: italic;
+
+ }
+ #about p{ 
+    font-style: italic;
+   color: black;
+   font-family: Verdana, Geneva, Tahoma, sans-serif
+ }
+  ol{
+    font-style: italic;
+    color: aquamarine;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+   p{
+    color: black;
+  }
+   p{
+    font-size: 20px;
+    font-style: oblique;
+  }
+
+
